@@ -6,22 +6,23 @@ This project uses Machine Learning and Artificial Intelligence techniques to pre
 
 The system classifies churn risk levels and highlights high-risk customers through visualizations and data insights. It also provides smart preventive recommendations such as personalized discounts, loyalty offers, and improved customer support to reduce churn rate and increase customer retention.
 
-**Key Features:**
+**Key Features:**<br>
 _Data Cleaning and Preprocessing <br>
 Exploratory Data Analysis (EDA) <br>
-Customer Churn Prediction using ML Models
-High-Risk Customer Detection
-Churn Probability Visualization
-Business Retention Strategy Suggestions
-Performance Evaluation of Models
-Technologies Used:
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Scikit-learn
-Jupyter Notebook_
+Customer Churn Prediction using ML Models<br>
+High-Risk Customer Detection<br>
+Churn Probability Visualization<br>
+Business Retention Strategy Suggestions<br>
+Performance Evaluation of Models<br>
+
+**Technologies Used:**
+Python<br>
+Pandas<br>
+NumPy<br>
+Matplotlib<br>
+Seaborn<br>
+Scikit-learn<br>
+Jupyter Notebook<br>
 
 **Goal:**
 
